@@ -223,5 +223,5 @@
   </table>
 </div>
 <div align="center">
-<img src="https://github.com/iosephXD/iosephXD/blob/main/assests/Bwave.svg" width="100%" />
+<img src="https://github.com/iosephXD/iosephXD/blob/main/assests/footer.svg" width="100%" />
 </div>

@@ -223,5 +223,5 @@
   </table>
 </div>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1F2937,50:30343B,100:111111&height=35&section=footer" width="100%" />
 </div>

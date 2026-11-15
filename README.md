@@ -1,18 +1,4 @@
-<div align="center">
-<!-- Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=header&animation=fadeIn" />
-  
-
-<!-- Professional Role Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-Thrax--911-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
-</p>
-
-
-
-
-  <div style="margin: 20px 0; padding: 0 15px;">
+<div style="margin: 20px 0; padding: 0 15px;">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=Game+Developer;Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
@@ -72,16 +58,16 @@
       <tr>
         <td style="padding: 10px; text-align: center;">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
         </td>
         <td style="padding: 10px; text-align: center;">
           <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
   </a>
         </td>
         <td style="padding: 10px; text-align: center;">
            <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/Unity-Dark.svg" alt="unity" width="40" height="40"/>
   </a>
         </td>
         <td style="padding: 10px; text-align: center;">
@@ -131,11 +117,11 @@
     <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center; vertical-align: top;">
       <h4 style="margin: 0 0 10px 0; color: #6F3AFF;">Frontend</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/HTML.svg" alt="HTML5"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CSS.svg" alt="CSS3"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/JavaScript.svg" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS"/>
       </div>
     </td>
     <!-- Backend -->

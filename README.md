@@ -223,5 +223,5 @@
   </table>
 </div>
 <div align="center">
-<img src="[https://capsule-render.vercel.app/api?type=slice&color=0:1F2937,50:30343B,100:111111&height=35&section=footer](https://github.com/iosephXD/iosephXD/blob/main/assests/Bwave.svg)" width="100%" />
+<img src="https://github.com/iosephXD/iosephXD/blob/main/assests/Bwave.svg" width="100%" />
 </div>

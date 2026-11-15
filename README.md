@@ -36,19 +36,23 @@
   </tr>
 </table></div>
 
-## About Me
+## About Me  
 <div style="background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px; max-width: 1200px; margin: 0 auto 30px; width: calc(100% - 30px);">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
         <p style="line-height: 1.6; margin: 0;">
-          Hey, I'm <strong>Joseph</strong>. I make games and build full stack web apps.
+          I am a <strong>Game Developer</strong>, 
+          <strong>Full Stack Developer</strong>, and 
+          <strong>Ethical Hacker</strong> with a focus on secure and scalable systems.
+          I build interactive experiences and web applications with performance, architecture, and security in mind.
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
-          I'm a Linux user and I like tinkering with stuff until it works, then figuring out why it works.
+          My background in both software development and penetration testing allows me to approach projects from a dual perspective, creating robust solutions while proactively identifying and mitigating potential vulnerabilities.
+        </p>
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
-          Outside of coding I play chess and way too much Hearts of Iron IV.
+          I aim to deliver applications and games that balance functionality, performance, and practical security standards.
         </p>
       </td>
     </tr>

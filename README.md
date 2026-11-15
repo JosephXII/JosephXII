@@ -1,4 +1,18 @@
-<div style="margin: 20px 0; padding: 0 15px;">
+<div align="center">
+<!-- Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=header&animation=fadeIn" />
+  
+
+<!-- Professional Role Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Thrax--911-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
+</p>
+
+
+
+
+  <div style="margin: 20px 0; padding: 0 15px;">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=Game+Developer;Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
@@ -117,11 +131,11 @@
     <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center; vertical-align: top;">
       <h4 style="margin: 0 0 10px 0; color: #6F3AFF;">Frontend</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/HTML.svg" alt="HTML5"/>
-        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CSS.svg" alt="CSS3"/>
-        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/JavaScript.svg" alt="JavaScript"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/HTML.svg" alt="HTML5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS"/>
+        <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40" height="40"/>
       </div>
     </td>
     <!-- Backend -->

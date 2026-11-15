@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=header&animation=fadeIn" />
+<img width="100%" src="https://github.com/JosephXII/JosephXII/blob/main/assests/header.svg" />
   
 
 <!-- Professional Role Badges -->

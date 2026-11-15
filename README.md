@@ -16,7 +16,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=Game+Developer;Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
-
+ 
 
 <div align="center" style="margin: 20px 0; padding: 0 15px;">
 <!-- Profile Statistics -->
@@ -62,6 +62,36 @@
 
 ## Tech Arsenal
 <div align="center" style="margin: 30px auto; max-width: 1200px; width: calc(100% - 30px); padding: 0 15px;">
+
+ <!-- Gaming Development -->
+  <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
+      <tr>
+        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Game Development Languages & Tools</b></th>
+      </tr>
+      <tr>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+           <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://libsdl.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/yFzkwL8z/SDL.png" alt="SDL" width="40" height="40"/>
+  </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
   <!-- Security Tools Table -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
@@ -135,10 +165,10 @@
 <!-- <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
 <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWM-2006&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrax-911&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
        <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWM-2006&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Thrax-911&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
 </tr> -->
 <table style="width: 100%; border-collapse: collapse;">
@@ -156,16 +186,20 @@
     <!-- RIGHT SIDE (Portfolio) -->
     <td style="padding: 20px; text-align: center; vertical-align: middle;">
       <a href="https://thrax.ae" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
-        🌐 Visit My Portfolio
+        🌐 Visit My Latest Project
       </a>
       <br><br>
-      <img src="https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474" 
+      <img src="https://cdn-blog.superprof.com/blog_gb/wp-content/uploads/2020/12/defining-your-project.jpg.webp" 
            alt="Portfolio Preview" width="450"/>
     </td>
   </tr>
 </table>
 
   </div>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=50&lines=See+you+in+the+logs...;Stay+sharp.+Stay+secure.;The+hunt+never+ends." alt="Typing SVG" />
 </div>
 
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
@@ -191,6 +225,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
 </div>
+
 
 <div align="center">
 <img src="https://github.com/iosephXD/iosephXD/blob/main/assests/footer.svg" width="100%" />

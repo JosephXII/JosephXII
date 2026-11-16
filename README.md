@@ -72,10 +72,10 @@
       <tr>
         <td style="padding: 10px; text-align: center;">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://github.com/JosephXII/JosephXII/blob/main/assests/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
         </td>
         <td style="padding: 10px; text-align: center;">
-          <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+          <a href="https://github.com/JosephXII/JosephXII/blob/main/assests/csharp.svg" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
   </a>
         </td>

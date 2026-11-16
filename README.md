@@ -75,8 +75,8 @@
     <img src="https://github.com/JosephXII/JosephXII/blob/main/assests/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
         </td>
         <td style="padding: 10px; text-align: center;">
-          <a href="https://github.com/JosephXII/JosephXII/blob/main/assests/csharp.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
+          <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
+    <img src="https://github.com/JosephXII/JosephXII/blob/main/assests/csharp.svg" alt="csharp" width="40" height="40"/>
   </a>
         </td>
         <td style="padding: 10px; text-align: center;">
